@@ -82,7 +82,7 @@ body {
   background-color: var(--document-bg-color);
   scrollbar-width: 6px;
   /* Firefox */
-  scrollbbar-color: var(--bg-accent-color);
+  scrollbar-color: var(--bg-accent-color);
   scrollbar-face-color: var(--accent-color);
 }
 
